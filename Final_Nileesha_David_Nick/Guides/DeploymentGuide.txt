@@ -1,0 +1,4 @@
+Java Compiler Version: 1.7
+Tomcat Version 7.0
+External jar: JSTL for the servlet
+	      JSON external classes

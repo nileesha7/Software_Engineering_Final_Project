@@ -1,0 +1,12 @@
+Running the server:
+1) Use 2099 as the program argument
+
+The servlet:
+1) Click on browse to select a file from the local machine to upload to the servlet
+2) Click on the "choose a file from the server using RMI" button, this will transfer file names from server to client. In the console, Enter the IP address if the server you wish to connect. Enter the directory from which you wish to transfer files/
+3) Select the file from the combo box and click on the merge button
+4) Enter the IP address again on the console
+5) Enter the socket port number you wish to transfer the file
+6) Enter the path of the local file on the console
+
+

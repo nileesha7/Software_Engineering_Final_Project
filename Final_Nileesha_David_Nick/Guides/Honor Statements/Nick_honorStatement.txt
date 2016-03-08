@@ -1,0 +1,16 @@
+XML Merge file
+Man hours: ~20
+
+Steps taken during the process:
+-Finding a convenient way to parse the XML files, deciding on the DOM parser
+-Experimenting with the DOM parser, learning how to traverse and and retrieve the needed info
+-Create function to compare two nodes from different files (areEqual())
+-Copying necessary tokens from one file to the other, into their correct spots
+-Changing the ID of tokens to ensure there are no duplicates
+-Adding <author> and <dataEnterer> to product with group name
+-Returning final product for use
+-Importing JSON library
+-Translating XML file into JSON, and returning as a string
+
+I have neither given nor received unauthorized aid on this assignment
+Nicholas Laris
